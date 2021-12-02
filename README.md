@@ -11,7 +11,7 @@ npm install -g json-server
 ## Open Terminal 1 - Start Json server
 
 
-json-server --watch db.json --port 3333
+npx json-server --watch db.json --port 3333
 
 
 ## Open Terminal 2 - Run React JS Application
