@@ -1,4 +1,5 @@
 ## React JS CRUD Project with API Call
+![alt text](https://reactnativecode.com/wp-content/uploads/2017/12/CRUD_Operations_React_Native.png)
 
 ## To run this Project follow below steps
 
